@@ -1,0 +1,1 @@
+class MoteurEssence extends Moteur {}
